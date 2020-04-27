@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Question2 {
 
-    
+    //This asks the user for two integers and finds out the GCD
     public static void main(String[] args) {
       Scanner sc = new Scanner(System.in);
         System.out.println("Enter two integer numbers to find out the GCD ");
