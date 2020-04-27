@@ -4,7 +4,8 @@ package question3;
 
 public class Question3 {
 
- 
+ //This uses objects to print out two books with their title, author, isbn, etc
+ //I couldnt get to do the publisher nor use the toString
     public static void main(String[] args) {
         Book myBook = new Book("The Handmaid's Tale","Marget", 192939, 1985, 1);{
         String myBookTitle = myBook.getTitle();
